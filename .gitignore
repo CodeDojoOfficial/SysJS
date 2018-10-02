@@ -1,0 +1,7 @@
+# VI Improved Swap Files
+.swp # Most common
+.swo
+.swa
+
+# Miscellaneous files
+.DS_Store
